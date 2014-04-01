@@ -1,0 +1,4 @@
+{
+    "name": "aoepeople/phpcs-magento-rules",
+    "description": "A set of PHP_CodeSniffer rules and sniffs for Magento",
+}
