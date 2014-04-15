@@ -7,8 +7,8 @@
     <rule ref="Generic.WhiteSpace.ScopeIndent"/>
     <rule ref="Generic.Files.LineLength">
         <properties>
-            <property name="lineLimit" value="120"/>
-            <property name="absoluteLineLimit" value="120"/>
+            <property name="lineLimit" value="150"/>
+            <property name="absoluteLineLimit" value="150"/>
         </properties>
     </rule>
     <rule ref="Generic.Files.LineEndings"/>
